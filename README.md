@@ -13,7 +13,8 @@ The dataset used in this project consists of [insert number] rows of data, repre
 1.Find out the top 5 customers who made the highest profits.
 2.Find out the average quantity ordered per category.
 3.Identify the top 5 products that have generated the highest revenue.
-4.Determine the top 5 products whose revenue has decreased compared to the previous year. 5.Identify the highest profitable sub-category.
+4.Determine the top 5 products whose revenue has decreased compared to the previous year.
+5.Identify the highest profitable sub-category.
 6.Find out the states with the highest total orders.
 7.Determine the month with the highest number of orders.
 8.Calculate the profit margin percentage for each sale (Profit divided by Sales).
