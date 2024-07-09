@@ -30,10 +30,10 @@ An Entity-Relationship Diagram (ERD) has been created to visualize the relations
 # Getting Started
 **To replicate the analysis or explore the dataset further, follow these steps:**
 
-1.Clone the repository to your local machine.
-2.Ensure you have a SQL environment set up to execute queries.
-3.Load the provided dataset into your SQL database.
-4.Execute the SQL queries provided in the repository to analyze the data and derive insights. 5.Customize the analysis or queries as needed for your specific objectives.
+1. Clone the repository to your local machine.
+2. Ensure you have a SQL environment set up to execute queries.
+3. Load the provided dataset into your SQL database.
+4. Execute the SQL queries provided in the repository to analyze the data and derive insights. 5. Customize the analysis or queries as needed for your specific objectives.
 
 # Conclusion
 Through this project, we aim to provide valuable insights into Amazon sales trends, customer preferences, and other factors influencing e-commerce operations. By analyzing the dataset and addressing the key questions, we hope to assist stakeholders in making informed decisions and optimizing their sales strategies. Feel free to explore the repository and contribute to further analysis or enhancements!
